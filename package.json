@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  },
+  "dependencies": {
+    "debug": "^4.3.4",
+    "firebase-admin": "^11.2.1",
+    "firebase-functions": "^4.0.2",
+    "har-validator": "^5.1.5",
+    "request": "^2.88.2",
+    "uuid": "^9.0.0"
+  }
+}
