@@ -1,6 +1,6 @@
 # Beep
 
-Beep Chat is a simple messaging app. Whether you're catching up on the latest news with your friends or sending some funny selfies to your family, Beep Chat is the place to be. Some screenshots may not be available due to personal reasons.
+Beep Chat is a simple messaging app. Whether you're catching up on the latest news with your friends or sending some funny selfies to your family, Beep Chat is the place to be.
 
 ![beep1 (Custom)](https://user-images.githubusercontent.com/34290001/217887803-4856f140-a01c-4bb2-87d6-13b03d209205.jpg)
 ![beep2 (Custom)](https://user-images.githubusercontent.com/34290001/217887806-b39d9c6a-7ed5-43c8-bc59-9c23e1e6e7bd.jpg)
